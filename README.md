@@ -40,8 +40,6 @@
 
 - Production-level app architecture
 
-- Building immersive mobile experiences (camera + location + interaction)
-
 - Writing backend logic that handles real-world edge cases
 
 **My goal** is to become a developer who can design and build complete, scalable products — not just features.
