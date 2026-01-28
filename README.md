@@ -1,16 +1,47 @@
-## Hi there 👋
+## Hi there 👋 I'm Achraf
 
-<!--
-**iamachrafeaz/iamachrafeaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software engineering student
 
-Here are some ideas to get you started:
+🌍 Based in Tangier, Morocco 🇲🇦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about building real, scalable applications — not just class projects
+
+## Tech Stack I have used so far during my studies :
+
+**Mobile**
+
+* React Native
+* Expo
+* React Navigation
+
+**Frontend**
+
+* React
+* Component optimization
+* Modern UI structuring
+
+**Backend**
+
+* Node.js
+* Express
+* MongoDB / Mongoose
+* REST API design
+* Authentication with tokens
+
+**Other**
+
+* Git & GitHub workflows
+* API integration with Axios
+* Clean project structuring
+
+**My current focus :**
+
+- Advanced React Native patterns
+
+- Production-level app architecture
+
+- Building immersive mobile experiences (camera + location + interaction)
+
+- Writing backend logic that handles real-world edge cases
+
+**My goal** is to become a developer who can design and build complete, scalable products — not just features.
