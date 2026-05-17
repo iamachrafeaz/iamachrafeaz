@@ -31,15 +31,12 @@
 **Other**
 
 * Git & GitHub workflows
-* API integration with Axios
 * Clean project structuring
 
 **My current focus :**
 
-- Advanced React Native patterns
+- Building scalable backend systems with Spring Boot
 
 - Production-level app architecture
-
-- Writing backend logic that handles real-world edge cases
 
 **My goal** is to become a developer who can design and build complete, scalable products — not just features.
